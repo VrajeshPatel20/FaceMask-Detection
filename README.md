@@ -6,3 +6,9 @@ A demonstration of Real Time Face Mask Detetction can be found below:
 
 
 The Dataset was obtained from kaggle and can be found [here](https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset).
+
+## Model Accuracy
+![Model Accuracy](./readme_img/accuracy.JPG)
+
+## Model Losses
+![Model Losses](./readme_img/losses.JPG)
